@@ -46,7 +46,6 @@
             position: absolute;
             bottom: 128px;
             left: 0px;
-            background: url('../../images/Sichuan/advice/before.png');
             width: 530px;
             height: 317px;
         }
@@ -56,7 +55,6 @@
             position: absolute;
             bottom: 0px;
             left: 0px;
-            background: url('../../images/Sichuan/advice/after.png');
             width: 530px;
             height: 259px;
         }
