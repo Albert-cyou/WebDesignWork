@@ -190,8 +190,8 @@ nav {
 }
 
 .personal-avatar {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
     margin: 0 auto;
@@ -209,6 +209,7 @@ nav {
     font-weight: 700;
     color: var(--secondary-color);
     margin-bottom: 0.5rem;
+    margin-top:1.0rem;
 }
 
 .personal-title {
