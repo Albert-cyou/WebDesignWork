@@ -27,25 +27,27 @@ A homework for web design, which is typically for accomplishing the task assigne
 
 ## 文件目录结构
 
-    WEBDESIGNWORK/
-    ├── README.md               // 作业说明        
-    ├── pages/   
-    |   ├── index.html          // 首页 
-    |   ├── personal1.html      // 组员1的个人主页
-    |   ├── personal2.html      // 组员2的个人主页
-    |   ├── personal3.html      // 组员3的个人主页
-    |   └── personal4.html      // 组员4的个人主页
-    ├── css/
-    │   ├── font.css           // 字体样式
-    │   ├── header.css         // 导航栏样式
-    │   └── section.css        // 板块样式
-    ├── js/
-    │   └── main.js             // 页面交互逻辑代码（如过滤、懒加载、灯箱、幻灯片等）
-    ├── images/
-    │   ├── gallery/            // 存放画廊中使用的图片
-    │   ├── ChongQing/          // 个人使用的图片
-    │   ├── HuNan/              // 个人使用的图片
-    │   ├── HuNan/              // 个人使用的图片
-    │   └── SiChuan/            // 个人使用的图片
-    └── assets/                 // 字体
+    C:.
+    ├───asset               // 字体文件
+    ├───css                 // 样式
+    │   ├───chongqing
+    │   ├───hunan
+    │   └───sichuan
+    ├───images              // 图片
+    │   ├───ChongQing
+    │   ├───HuNan
+    │   ├───JiangSu
+    │   ├───overall
+    │   └───Sichuan
+    │       ├───advice
+    │       ├───city
+    │       ├───food
+    │       ├───main
+    │       └───viewpoint
+    ├───js                  // 脚本
+    │   ├───chongqing
+    │   └───hunan
+    └───pages               // 主要页面
+        ├───chongqing-else
+        └───hunan-else
  
